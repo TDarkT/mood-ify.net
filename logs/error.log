@@ -1,0 +1,482 @@
+[Mon Dec 16 17:10:29.527495 2019] [mpm_winnt:notice] [pid 8844:tid 600] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Mon Dec 16 17:10:29.528496 2019] [mpm_winnt:notice] [pid 8844:tid 600] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 16 17:10:29.528496 2019] [core:notice] [pid 8844:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 16 17:10:29.530499 2019] [mpm_winnt:notice] [pid 8844:tid 600] AH00418: Parent: Created child process 9680
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 9680:tid 628] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 16 17:12:25.435867 2019] [mpm_winnt:notice] [pid 8844:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 16 17:12:27.437690 2019] [mpm_winnt:notice] [pid 9680:tid 628] AH00364: Child: All worker threads have exited.
+[Mon Dec 16 17:12:27.451703 2019] [mpm_winnt:notice] [pid 8844:tid 600] AH00430: Parent: Child process 9680 exited successfully.
+[Mon Dec 16 18:34:46.060262 2019] [mpm_winnt:notice] [pid 6524:tid 564] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Mon Dec 16 18:34:46.060262 2019] [mpm_winnt:notice] [pid 6524:tid 564] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 16 18:34:46.060262 2019] [core:notice] [pid 6524:tid 564] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 16 18:34:46.063265 2019] [mpm_winnt:notice] [pid 6524:tid 564] AH00418: Parent: Created child process 12764
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 12764:tid 576] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 16 18:34:51.685377 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:51.809490 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:52.391019 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:52.450072 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:52.782375 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:52.840933 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:53.014090 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:53.070141 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:53.214272 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:53.294345 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:53.414454 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:53.470505 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:53.598622 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:53.653672 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:34:53.797803 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:34:53.854855 2019] [authz_core:error] [pid 12764:tid 1092] [client ::1:54138] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 18:35:47.763362 2019] [mpm_winnt:notice] [pid 6524:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Mon Dec 16 18:35:53.770329 2019] [mpm_winnt:notice] [pid 12764:tid 576] AH00364: Child: All worker threads have exited.
+[Mon Dec 16 18:35:53.784342 2019] [mpm_winnt:notice] [pid 6524:tid 564] AH00430: Parent: Child process 12764 exited successfully.
+[Mon Dec 16 18:49:09.121235 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Mon Dec 16 18:49:09.121235 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 16 18:49:09.121235 2019] [core:notice] [pid 3688:tid 660] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 16 18:49:09.121235 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00418: Parent: Created child process 4828
+[Mon Dec 16 18:49:09.402505 2019] [mpm_winnt:notice] [pid 4828:tid 568] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 16 18:54:36.504490 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:54372] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 18:54:36.627602 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:54372] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 20:10:53.782789 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55042] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 20:10:53.951942 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55042] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 20:10:56.688410 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55042] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 20:10:56.747460 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55042] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 20:20:44.542672 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:55150] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 20:20:44.740852 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:55150] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+[Mon Dec 16 21:31:15.703890 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55553] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/
+[Mon Dec 16 21:31:16.016173 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:55553] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net/favicon.ico, referer: http://localhost/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 22:29:27.293360 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:49672] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 22:29:27.605147 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:49672] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://localhost/
+[Mon Dec 16 22:29:29.826165 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:49672] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 22:29:29.884217 2019] [authz_core:error] [pid 4828:tid 1076] [client ::1:49672] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://localhost/
+[Mon Dec 16 22:34:46.693315 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:49691] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 22:34:46.833442 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:49691] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 22:39:17.865875 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:49708] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 22:39:17.989988 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:49708] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 23:21:50.715185 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:50119] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 23:21:50.838296 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:50119] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 23:35:44.289505 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:50199] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 23:35:44.537731 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:50199] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+[Mon Dec 16 23:39:03.431988 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:50211] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 23:39:03.491034 2019] [authz_core:error] [pid 4828:tid 1068] [client 127.0.0.1:50211] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Mon Dec 16 23:49:41.864484 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:50247] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Mon Dec 16 23:49:42.158751 2019] [authz_core:error] [pid 4828:tid 1076] [client 127.0.0.1:50247] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://127.0.0.1/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Tue Dec 17 00:24:19.296462 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:50355] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net
+[Tue Dec 17 00:24:19.858973 2019] [authz_core:error] [pid 4828:tid 1068] [client ::1:50355] AH01630: client denied by server configuration: C:/Projects/Webs/mood-ify.net, referer: http://localhost/
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3688:tid 660] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Dec 17 00:33:47.807853 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Tue Dec 17 00:33:47.807853 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 17 00:33:47.807853 2019] [core:notice] [pid 3688:tid 660] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 17 00:33:47.810855 2019] [mpm_winnt:notice] [pid 3688:tid 660] AH00418: Parent: Created child process 13684
+[Tue Dec 17 00:33:48.790794 2019] [mpm_winnt:notice] [pid 13684:tid 572] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 00:33:49.791643 2019] [mpm_winnt:notice] [pid 4828:tid 568] AH00364: Child: All worker threads have exited.
+[Tue Dec 17 00:33:51.776312 2019] [authz_core:error] [pid 13684:tid 1116] [client ::1:50492] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Tue Dec 17 00:33:51.778314 2019] [authz_core:error] [pid 13684:tid 1116] [client ::1:50492] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Tue Dec 17 00:33:54.725518 2019] [authz_core:error] [pid 13684:tid 1116] [client ::1:50492] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Tue Dec 17 00:33:54.725518 2019] [authz_core:error] [pid 13684:tid 1116] [client ::1:50492] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Tue Dec 17 10:32:39.617473 2019] [core:warn] [pid 3456:tid 544] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 17 10:32:39.617473 2019] [mpm_winnt:notice] [pid 3456:tid 544] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Tue Dec 17 10:32:39.617473 2019] [mpm_winnt:notice] [pid 3456:tid 544] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 17 10:32:39.617473 2019] [core:notice] [pid 3456:tid 544] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 17 10:32:39.617473 2019] [mpm_winnt:notice] [pid 3456:tid 544] AH00418: Parent: Created child process 5084
+[Tue Dec 17 10:32:39.961249 2019] [mpm_winnt:notice] [pid 5084:tid 596] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 10:36:33.685165 2019] [mpm_winnt:notice] [pid 3456:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 17 10:36:35.701371 2019] [mpm_winnt:notice] [pid 5084:tid 596] AH00364: Child: All worker threads have exited.
+[Tue Dec 17 10:36:35.716973 2019] [mpm_winnt:notice] [pid 3456:tid 544] AH00430: Parent: Child process 5084 exited successfully.
+[Tue Dec 17 10:37:11.931063 2019] [mpm_winnt:notice] [pid 3684:tid 676] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Tue Dec 17 10:37:11.931063 2019] [mpm_winnt:notice] [pid 3684:tid 676] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 17 10:37:11.931063 2019] [core:notice] [pid 3684:tid 676] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 17 10:37:11.931063 2019] [mpm_winnt:notice] [pid 3684:tid 676] AH00418: Parent: Created child process 5064
+[Tue Dec 17 10:37:12.181082 2019] [mpm_winnt:notice] [pid 5064:tid 176] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 10:48:04.447019 2019] [mpm_winnt:notice] [pid 3684:tid 676] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 17 10:48:06.462911 2019] [mpm_winnt:notice] [pid 5064:tid 176] AH00364: Child: All worker threads have exited.
+[Tue Dec 17 10:48:06.478429 2019] [mpm_winnt:notice] [pid 3684:tid 676] AH00430: Parent: Child process 5064 exited successfully.
+[Tue Dec 17 10:48:42.591635 2019] [mpm_winnt:notice] [pid 3708:tid 640] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Tue Dec 17 10:48:42.591635 2019] [mpm_winnt:notice] [pid 3708:tid 640] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 17 10:48:42.591635 2019] [core:notice] [pid 3708:tid 640] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 17 10:48:42.591635 2019] [mpm_winnt:notice] [pid 3708:tid 640] AH00418: Parent: Created child process 1284
+[Tue Dec 17 10:48:42.841653 2019] [mpm_winnt:notice] [pid 1284:tid 184] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 17 13:31:38.507363 2019] [core:warn] [pid 3760:tid 616] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 17 13:31:38.522988 2019] [mpm_winnt:notice] [pid 3760:tid 616] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Tue Dec 17 13:31:38.522988 2019] [mpm_winnt:notice] [pid 3760:tid 616] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 17 13:31:38.522988 2019] [core:notice] [pid 3760:tid 616] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 17 13:31:38.522988 2019] [mpm_winnt:notice] [pid 3760:tid 616] AH00418: Parent: Created child process 4908
+[Tue Dec 17 13:31:38.772987 2019] [mpm_winnt:notice] [pid 4908:tid 572] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 18 08:28:27.313416 2019] [core:warn] [pid 3752:tid 672] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 18 08:28:27.313416 2019] [mpm_winnt:notice] [pid 3752:tid 672] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Wed Dec 18 08:28:27.313416 2019] [mpm_winnt:notice] [pid 3752:tid 672] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Dec 18 08:28:27.313416 2019] [core:notice] [pid 3752:tid 672] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Dec 18 08:28:27.313416 2019] [mpm_winnt:notice] [pid 3752:tid 672] AH00418: Parent: Created child process 4864
+[Wed Dec 18 08:28:27.672788 2019] [mpm_winnt:notice] [pid 4864:tid 552] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 18 11:48:27.587357 2019] [core:warn] [pid 3480:tid 640] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 18 11:48:27.587357 2019] [mpm_winnt:notice] [pid 3480:tid 640] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Wed Dec 18 11:48:27.587357 2019] [mpm_winnt:notice] [pid 3480:tid 640] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Dec 18 11:48:27.587357 2019] [core:notice] [pid 3480:tid 640] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Dec 18 11:48:27.587357 2019] [mpm_winnt:notice] [pid 3480:tid 640] AH00418: Parent: Created child process 4688
+[Wed Dec 18 11:48:27.821730 2019] [mpm_winnt:notice] [pid 4688:tid 544] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 18 18:55:20.313149 2019] [core:warn] [pid 3520:tid 668] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 18 18:55:20.313149 2019] [mpm_winnt:notice] [pid 3520:tid 668] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Wed Dec 18 18:55:20.313149 2019] [mpm_winnt:notice] [pid 3520:tid 668] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Dec 18 18:55:20.313149 2019] [core:notice] [pid 3520:tid 668] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Dec 18 18:55:20.313149 2019] [mpm_winnt:notice] [pid 3520:tid 668] AH00418: Parent: Created child process 4628
+[Wed Dec 18 18:55:20.656925 2019] [mpm_winnt:notice] [pid 4628:tid 576] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 20 07:52:39.688770 2019] [core:warn] [pid 3588:tid 624] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 20 07:52:39.688770 2019] [mpm_winnt:notice] [pid 3588:tid 624] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Fri Dec 20 07:52:39.688770 2019] [mpm_winnt:notice] [pid 3588:tid 624] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Dec 20 07:52:39.688770 2019] [core:notice] [pid 3588:tid 624] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Dec 20 07:52:39.688770 2019] [mpm_winnt:notice] [pid 3588:tid 624] AH00418: Parent: Created child process 5076
+[Fri Dec 20 07:52:39.954414 2019] [mpm_winnt:notice] [pid 5076:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 08:34:28.037187 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61161] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:34:28.041191 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61161] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 08:44:40.885983 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61595] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:44:40.885983 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61595] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 08:45:09.642692 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61610] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:45:09.642692 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61610] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 08:47:08.032037 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61628] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:47:08.032037 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61628] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Sat Dec 21 08:51:12.712571 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61707] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:51:12.712571 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61707] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Sat Dec 21 08:51:44.304065 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61712] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:51:44.304065 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61712] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 08:51:46.104190 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61712] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 08:51:46.104190 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61712] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 09:20:07.602665 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61852] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 09:20:07.602665 2019] [authz_core:error] [pid 5076:tid 1068] [client ::1:61852] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 09:25:35.484919 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61909] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 09:25:35.484919 2019] [authz_core:error] [pid 5076:tid 1076] [client ::1:61909] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 09:25:43.809990 2019] [authz_core:error] [pid 5076:tid 1076] [client 127.0.0.1:61911] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 09:25:43.809990 2019] [authz_core:error] [pid 5076:tid 1076] [client 127.0.0.1:61911] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 09:25:45.818813 2019] [authz_core:error] [pid 5076:tid 1076] [client 127.0.0.1:61911] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/application/
+[Sat Dec 21 09:25:45.818813 2019] [authz_core:error] [pid 5076:tid 1076] [client 127.0.0.1:61911] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/mood-ify.net/codeigniter/system/
+[Sat Dec 21 09:32:40.945044 2019] [mpm_winnt:notice] [pid 3588:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 09:32:42.946874 2019] [mpm_winnt:notice] [pid 5076:tid 568] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 09:32:42.960887 2019] [mpm_winnt:notice] [pid 3588:tid 624] AH00430: Parent: Child process 5076 exited successfully.
+[Sat Dec 21 09:32:50.394707 2019] [mpm_winnt:notice] [pid 10836:tid 636] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Sat Dec 21 09:32:50.395648 2019] [mpm_winnt:notice] [pid 10836:tid 636] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 09:32:50.395648 2019] [core:notice] [pid 10836:tid 636] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 09:32:50.398650 2019] [mpm_winnt:notice] [pid 10836:tid 636] AH00418: Parent: Created child process 11864
+[Sat Dec 21 09:32:50.613846 2019] [mpm_winnt:notice] [pid 11864:tid 564] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 10:00:47.718777 2019] [mpm_winnt:notice] [pid 10836:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 10:00:49.720599 2019] [mpm_winnt:notice] [pid 11864:tid 564] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 10:00:49.734612 2019] [mpm_winnt:notice] [pid 10836:tid 636] AH00430: Parent: Child process 11864 exited successfully.
+[Sat Dec 21 10:00:57.131851 2019] [mpm_winnt:notice] [pid 11464:tid 624] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Sat Dec 21 10:00:57.132852 2019] [mpm_winnt:notice] [pid 11464:tid 624] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 10:00:57.132852 2019] [core:notice] [pid 11464:tid 624] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 10:00:57.133853 2019] [mpm_winnt:notice] [pid 11464:tid 624] AH00418: Parent: Created child process 3016
+[Sat Dec 21 10:00:57.348048 2019] [mpm_winnt:notice] [pid 3016:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 10:05:11.607223 2019] [mpm_winnt:notice] [pid 11464:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 10:05:13.609045 2019] [mpm_winnt:notice] [pid 3016:tid 568] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 10:05:13.623050 2019] [mpm_winnt:notice] [pid 11464:tid 624] AH00430: Parent: Child process 3016 exited successfully.
+[Sat Dec 21 10:05:15.864090 2019] [mpm_winnt:notice] [pid 13664:tid 652] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Sat Dec 21 10:05:15.864090 2019] [mpm_winnt:notice] [pid 13664:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 10:05:15.864090 2019] [core:notice] [pid 13664:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 10:05:15.866092 2019] [mpm_winnt:notice] [pid 13664:tid 652] AH00418: Parent: Created child process 2856
+[Sat Dec 21 10:05:16.083289 2019] [mpm_winnt:notice] [pid 2856:tid 540] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 12:21:56.101148 2019] [mpm_winnt:notice] [pid 13664:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 12:21:58.103977 2019] [mpm_winnt:notice] [pid 2856:tid 540] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 12:21:58.117989 2019] [mpm_winnt:notice] [pid 13664:tid 652] AH00430: Parent: Child process 2856 exited successfully.
+[Sat Dec 21 12:22:07.990973 2019] [mpm_winnt:notice] [pid 3592:tid 672] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Sat Dec 21 12:22:07.990973 2019] [mpm_winnt:notice] [pid 3592:tid 672] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 12:22:07.990973 2019] [core:notice] [pid 3592:tid 672] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 12:22:07.992975 2019] [mpm_winnt:notice] [pid 3592:tid 672] AH00418: Parent: Created child process 3016
+[Sat Dec 21 12:22:08.207170 2019] [mpm_winnt:notice] [pid 3016:tid 540] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 12:49:58.404717 2019] [mpm_winnt:notice] [pid 3592:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 12:50:00.406042 2019] [mpm_winnt:notice] [pid 3016:tid 540] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 12:50:00.420055 2019] [mpm_winnt:notice] [pid 3592:tid 672] AH00430: Parent: Child process 3016 exited successfully.
+[Sat Dec 21 12:50:02.633069 2019] [mpm_winnt:notice] [pid 7636:tid 668] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Sat Dec 21 12:50:02.634070 2019] [mpm_winnt:notice] [pid 7636:tid 668] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 12:50:02.634070 2019] [core:notice] [pid 7636:tid 668] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 12:50:02.637072 2019] [mpm_winnt:notice] [pid 7636:tid 668] AH00418: Parent: Created child process 11928
+[Sat Dec 21 12:50:02.849266 2019] [mpm_winnt:notice] [pid 11928:tid 556] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 13:48:56.256411 2019] [mpm_winnt:notice] [pid 7636:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 21 13:48:58.258234 2019] [mpm_winnt:notice] [pid 11928:tid 556] AH00364: Child: All worker threads have exited.
+[Sat Dec 21 13:48:58.272246 2019] [mpm_winnt:notice] [pid 7636:tid 668] AH00430: Parent: Child process 11928 exited successfully.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Sat Dec 21 14:27:23.784614 2019] [mpm_winnt:notice] [pid 12936:tid 716] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Sat Dec 21 14:27:23.784614 2019] [mpm_winnt:notice] [pid 12936:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 14:27:23.784614 2019] [core:notice] [pid 12936:tid 716] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 14:27:23.786616 2019] [mpm_winnt:notice] [pid 12936:tid 716] AH00418: Parent: Created child process 3612
+[Sat Dec 21 14:27:24.104906 2019] [mpm_winnt:notice] [pid 3612:tid 588] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 21 20:35:30.569922 2019] [core:warn] [pid 3524:tid 684] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 21 20:35:30.679305 2019] [mpm_winnt:notice] [pid 3524:tid 684] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Sat Dec 21 20:35:30.679305 2019] [mpm_winnt:notice] [pid 3524:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sat Dec 21 20:35:30.679305 2019] [core:notice] [pid 3524:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 21 20:35:30.679305 2019] [mpm_winnt:notice] [pid 3524:tid 684] AH00418: Parent: Created child process 4584
+[Sat Dec 21 20:35:30.960576 2019] [mpm_winnt:notice] [pid 4584:tid 632] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 22 10:51:19.556648 2019] [core:warn] [pid 3656:tid 532] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 22 10:51:19.650405 2019] [mpm_winnt:notice] [pid 3656:tid 532] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Sun Dec 22 10:51:19.650405 2019] [mpm_winnt:notice] [pid 3656:tid 532] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Sun Dec 22 10:51:19.650405 2019] [core:notice] [pid 3656:tid 532] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 22 10:51:19.650405 2019] [mpm_winnt:notice] [pid 3656:tid 532] AH00418: Parent: Created child process 4916
+[Sun Dec 22 10:51:19.994182 2019] [mpm_winnt:notice] [pid 4916:tid 656] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 23 08:28:50.248829 2019] [core:warn] [pid 3536:tid 672] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 23 08:28:50.358204 2019] [mpm_winnt:notice] [pid 3536:tid 672] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Mon Dec 23 08:28:50.358204 2019] [mpm_winnt:notice] [pid 3536:tid 672] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 23 08:28:50.358204 2019] [core:notice] [pid 3536:tid 672] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 23 08:28:50.373829 2019] [mpm_winnt:notice] [pid 3536:tid 672] AH00418: Parent: Created child process 760
+[Mon Dec 23 08:28:50.717576 2019] [mpm_winnt:notice] [pid 760:tid 548] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 23 16:42:18.115861 2019] [core:warn] [pid 3568:tid 680] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 23 16:42:18.209617 2019] [mpm_winnt:notice] [pid 3568:tid 680] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Mon Dec 23 16:42:18.209617 2019] [mpm_winnt:notice] [pid 3568:tid 680] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 23 16:42:18.209617 2019] [core:notice] [pid 3568:tid 680] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 23 16:42:18.209617 2019] [mpm_winnt:notice] [pid 3568:tid 680] AH00418: Parent: Created child process 4536
+[Mon Dec 23 16:42:18.600272 2019] [mpm_winnt:notice] [pid 4536:tid 628] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 12:01:04.294248 2019] [core:warn] [pid 3600:tid 676] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 12:01:04.403631 2019] [mpm_winnt:notice] [pid 3600:tid 676] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 24 12:01:04.403631 2019] [mpm_winnt:notice] [pid 3600:tid 676] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 24 12:01:04.403631 2019] [core:notice] [pid 3600:tid 676] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 24 12:01:04.403631 2019] [mpm_winnt:notice] [pid 3600:tid 676] AH00418: Parent: Created child process 1176
+[Tue Dec 24 12:01:04.763034 2019] [mpm_winnt:notice] [pid 1176:tid 672] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 15:45:48.238904 2019] [core:warn] [pid 3452:tid 716] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 15:45:48.348287 2019] [mpm_winnt:notice] [pid 3452:tid 716] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 24 15:45:48.348287 2019] [mpm_winnt:notice] [pid 3452:tid 716] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 24 15:45:48.348287 2019] [core:notice] [pid 3452:tid 716] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 24 15:45:48.363913 2019] [mpm_winnt:notice] [pid 3452:tid 716] AH00418: Parent: Created child process 4944
+[Tue Dec 24 15:45:48.598305 2019] [mpm_winnt:notice] [pid 4944:tid 680] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 20:16:32.214574 2019] [core:warn] [pid 3332:tid 680] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 20:16:32.323958 2019] [mpm_winnt:notice] [pid 3332:tid 680] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 24 20:16:32.323958 2019] [mpm_winnt:notice] [pid 3332:tid 680] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 24 20:16:32.323958 2019] [core:notice] [pid 3332:tid 680] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 24 20:16:32.323958 2019] [mpm_winnt:notice] [pid 3332:tid 680] AH00418: Parent: Created child process 4980
+[Tue Dec 24 20:16:32.573977 2019] [mpm_winnt:notice] [pid 4980:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 20:49:43.632006 2019] [core:warn] [pid 3976:tid 652] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 20:49:43.725764 2019] [mpm_winnt:notice] [pid 3976:tid 652] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 24 20:49:43.725764 2019] [mpm_winnt:notice] [pid 3976:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 24 20:49:43.725764 2019] [core:notice] [pid 3976:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 24 20:49:43.725764 2019] [mpm_winnt:notice] [pid 3976:tid 652] AH00418: Parent: Created child process 4988
+[Tue Dec 24 20:49:44.100793 2019] [mpm_winnt:notice] [pid 4988:tid 628] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 22:13:22.959975 2019] [core:warn] [pid 3468:tid 740] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 24 22:13:23.053731 2019] [mpm_winnt:notice] [pid 3468:tid 740] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 24 22:13:23.053731 2019] [mpm_winnt:notice] [pid 3468:tid 740] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 24 22:13:23.053731 2019] [core:notice] [pid 3468:tid 740] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 24 22:13:23.053731 2019] [mpm_winnt:notice] [pid 3468:tid 740] AH00418: Parent: Created child process 4580
+[Tue Dec 24 22:13:23.335004 2019] [mpm_winnt:notice] [pid 4580:tid 688] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 27 21:32:29.079340 2019] [core:alert] [pid 4580:tid 1132] [client 127.0.0.1:59676] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:32:32.928344 2019] [core:alert] [pid 4580:tid 1144] [client 127.0.0.1:59677] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Fri Dec 27 21:32:46.115846 2019] [core:alert] [pid 4580:tid 1132] [client 127.0.0.1:59680] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:32:46.780451 2019] [core:alert] [pid 4580:tid 1144] [client 127.0.0.1:59681] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:34:24.168745 2019] [mpm_winnt:notice] [pid 3468:tid 740] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 27 21:34:26.171553 2019] [mpm_winnt:notice] [pid 4580:tid 688] AH00364: Child: All worker threads have exited.
+[Fri Dec 27 21:34:27.899108 2019] [mpm_winnt:notice] [pid 3468:tid 740] AH00430: Parent: Child process 4580 exited successfully.
+[Fri Dec 27 21:34:36.464443 2019] [mpm_winnt:notice] [pid 5248:tid 684] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Fri Dec 27 21:34:36.464443 2019] [mpm_winnt:notice] [pid 5248:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Dec 27 21:34:36.464443 2019] [core:notice] [pid 5248:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Dec 27 21:34:36.465455 2019] [mpm_winnt:notice] [pid 5248:tid 684] AH00418: Parent: Created child process 13588
+[Fri Dec 27 21:34:36.787737 2019] [mpm_winnt:notice] [pid 13588:tid 628] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 27 21:34:42.148101 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59696] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:34:42.924808 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59697] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:34:43.179037 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59698] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:34:43.387227 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59699] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:34:43.563387 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59700] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Fri Dec 27 21:35:06.990652 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59706] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:07.887467 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59707] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:08.190743 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59708] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:08.438969 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59709] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:08.679187 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59710] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:08.926413 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59711] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:09.134602 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59712] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:35:09.334784 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59713] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:40:05.278709 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59778] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:40:10.174651 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59779] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:40:10.918327 2019] [core:alert] [pid 13588:tid 1136] [client 127.0.0.1:59780] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:40:11.150538 2019] [core:alert] [pid 13588:tid 1140] [client 127.0.0.1:59781] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:40:13.442620 2019] [mpm_winnt:notice] [pid 5248:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 27 21:40:25.069674 2019] [mpm_winnt:notice] [pid 13588:tid 628] AH00364: Child: All worker threads have exited.
+[Fri Dec 27 21:40:25.084582 2019] [mpm_winnt:notice] [pid 5248:tid 684] AH00430: Parent: Child process 13588 exited successfully.
+[Fri Dec 27 21:40:33.949114 2019] [mpm_winnt:notice] [pid 11552:tid 652] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Fri Dec 27 21:40:33.949114 2019] [mpm_winnt:notice] [pid 11552:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Dec 27 21:40:33.949114 2019] [core:notice] [pid 11552:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Dec 27 21:40:33.950115 2019] [mpm_winnt:notice] [pid 11552:tid 652] AH00418: Parent: Created child process 3100
+[Fri Dec 27 21:40:34.172317 2019] [mpm_winnt:notice] [pid 3100:tid 632] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 27 21:40:37.134037 2019] [core:alert] [pid 3100:tid 1144] [client 127.0.0.1:59790] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:47:25.976147 2019] [core:alert] [pid 3100:tid 1144] [client 127.0.0.1:59879] C:/Server/Apache24/htdocs/mood-ify.net/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Fri Dec 27 21:51:24.859815 2019] [core:error] [pid 3100:tid 1132] [client 127.0.0.1:59900] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 21:51:27.082830 2019] [core:error] [pid 3100:tid 1144] [client 127.0.0.1:59901] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 21:53:36.639094 2019] [mpm_winnt:notice] [pid 11552:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 27 21:53:38.640976 2019] [mpm_winnt:notice] [pid 3100:tid 632] AH00364: Child: All worker threads have exited.
+[Fri Dec 27 21:53:40.266381 2019] [mpm_winnt:notice] [pid 11552:tid 652] AH00430: Parent: Child process 3100 exited successfully.
+[Fri Dec 27 21:53:49.156130 2019] [mpm_winnt:notice] [pid 10676:tid 684] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Fri Dec 27 21:53:49.156130 2019] [mpm_winnt:notice] [pid 10676:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Dec 27 21:53:49.156130 2019] [core:notice] [pid 10676:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Dec 27 21:53:49.157131 2019] [mpm_winnt:notice] [pid 10676:tid 684] AH00418: Parent: Created child process 13300
+[Fri Dec 27 21:53:49.377331 2019] [mpm_winnt:notice] [pid 13300:tid 656] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 27 21:57:57.820489 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:59957] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:10:57.181387 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60037] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:27:43.260312 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60141] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:28:40.376218 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60146] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:28:41.143909 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60147] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:28:41.336084 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60148] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:28:41.543272 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60149] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:28:41.735447 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60150] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 22:47:53.157719 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60232] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:14.599114 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60282] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:15.479906 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60283] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:15.751160 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60284] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:16.007386 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60286] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:16.215575 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60287] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:11:37.274698 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60290] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:12:22.219462 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60303] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:12:22.897071 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60304] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:12:23.080267 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60305] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:14:42.386403 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60317] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:14:43.099058 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60318] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:14:43.282217 2019] [core:error] [pid 13300:tid 1144] [client 127.0.0.1:60319] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:14:46.351009 2019] [core:error] [pid 13300:tid 1136] [client 127.0.0.1:60320] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:15:15.259234 2019] [mpm_winnt:notice] [pid 10676:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 27 23:15:17.261059 2019] [mpm_winnt:notice] [pid 13300:tid 656] AH00364: Child: All worker threads have exited.
+[Fri Dec 27 23:15:18.951585 2019] [mpm_winnt:notice] [pid 10676:tid 684] AH00430: Parent: Child process 13300 exited successfully.
+[Fri Dec 27 23:15:28.211913 2019] [mpm_winnt:notice] [pid 7648:tid 712] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Fri Dec 27 23:15:28.211913 2019] [mpm_winnt:notice] [pid 7648:tid 712] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Dec 27 23:15:28.211913 2019] [core:notice] [pid 7648:tid 712] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Dec 27 23:15:28.213915 2019] [mpm_winnt:notice] [pid 7648:tid 712] AH00418: Parent: Created child process 5660
+[Fri Dec 27 23:15:28.432114 2019] [mpm_winnt:notice] [pid 5660:tid 632] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Fri Dec 27 23:18:33.022851 2019] [core:error] [pid 5660:tid 1132] [client 127.0.0.1:60346] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Dec 27 23:18:37.110055 2019] [core:error] [pid 5660:tid 1144] [client 127.0.0.1:60348] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Sun Dec 29 15:22:17.816506 2019] [core:error] [pid 5660:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:59048] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Sun Dec 29 15:22:27.792572 2019] [core:error] [pid 5660:tid 1144] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:59052] AH00127: Cannot map GET /http://mood-ify.net/contacts/edit/1 HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Sun Dec 29 15:22:38.227566 2019] [core:error] [pid 5660:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:59055] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Sun Dec 29 15:22:40.595225 2019] [core:error] [pid 5660:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:59055] AH00127: Cannot map GET /http://mood-ify.net/contacts/edit/1 HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Sun Dec 29 15:51:53.595660 2019] [core:error] [pid 5660:tid 1144] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:52976] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Mon Dec 30 10:29:16.733185 2019] [core:warn] [pid 3680:tid 688] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 30 10:29:16.826942 2019] [mpm_winnt:notice] [pid 3680:tid 688] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Mon Dec 30 10:29:16.826942 2019] [mpm_winnt:notice] [pid 3680:tid 688] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 30 10:29:16.826942 2019] [core:notice] [pid 3680:tid 688] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 30 10:29:16.826942 2019] [mpm_winnt:notice] [pid 3680:tid 688] AH00418: Parent: Created child process 1404
+[Mon Dec 30 10:29:17.186344 2019] [mpm_winnt:notice] [pid 1404:tid 584] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 30 10:29:31.553222 2019] [mpm_winnt:notice] [pid 3680:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 30 10:29:33.569406 2019] [mpm_winnt:notice] [pid 1404:tid 584] AH00364: Child: All worker threads have exited.
+[Mon Dec 30 10:29:33.584632 2019] [mpm_winnt:notice] [pid 3680:tid 688] AH00430: Parent: Child process 1404 exited successfully.
+[Mon Dec 30 10:30:11.762608 2019] [mpm_winnt:notice] [pid 4060:tid 708] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Mon Dec 30 10:30:11.762608 2019] [mpm_winnt:notice] [pid 4060:tid 708] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Mon Dec 30 10:30:11.762608 2019] [core:notice] [pid 4060:tid 708] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Mon Dec 30 10:30:11.762608 2019] [mpm_winnt:notice] [pid 4060:tid 708] AH00418: Parent: Created child process 5940
+[Mon Dec 30 10:30:12.059504 2019] [mpm_winnt:notice] [pid 5940:tid 680] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 30 18:31:20.019239 2019] [core:error] [pid 5940:tid 1136] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:56318] AH00127: Cannot map GET /http://mood-ify.net/contacts/edit/1 HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Mon Dec 30 18:36:06.256635 2019] [core:error] [pid 5940:tid 1144] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:56352] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Mon Dec 30 18:36:28.948352 2019] [core:error] [pid 5940:tid 1144] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:56356] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Tue Dec 31 09:54:28.435628 2019] [core:warn] [pid 3540:tid 684] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 31 09:54:28.545011 2019] [mpm_winnt:notice] [pid 3540:tid 684] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 31 09:54:28.545011 2019] [mpm_winnt:notice] [pid 3540:tid 684] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 31 09:54:28.545011 2019] [core:notice] [pid 3540:tid 684] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 31 09:54:28.545011 2019] [mpm_winnt:notice] [pid 3540:tid 684] AH00418: Parent: Created child process 892
+[Tue Dec 31 09:54:28.888788 2019] [mpm_winnt:notice] [pid 892:tid 632] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 31 15:43:36.856902 2019] [core:warn] [pid 3500:tid 640] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 31 15:43:36.966286 2019] [mpm_winnt:notice] [pid 3500:tid 640] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 31 15:43:36.966286 2019] [mpm_winnt:notice] [pid 3500:tid 640] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 31 15:43:36.966286 2019] [core:notice] [pid 3500:tid 640] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 31 15:43:36.966286 2019] [mpm_winnt:notice] [pid 3500:tid 640] AH00418: Parent: Created child process 3268
+[Tue Dec 31 15:43:37.216305 2019] [mpm_winnt:notice] [pid 3268:tid 636] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 31 15:52:21.268882 2019] [mpm_winnt:notice] [pid 3500:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 31 15:52:23.300690 2019] [mpm_winnt:notice] [pid 3268:tid 636] AH00364: Child: All worker threads have exited.
+[Tue Dec 31 15:52:23.315918 2019] [mpm_winnt:notice] [pid 3500:tid 640] AH00430: Parent: Child process 3268 exited successfully.
+[Tue Dec 31 15:52:59.738206 2019] [mpm_winnt:notice] [pid 3800:tid 712] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 31 15:52:59.738206 2019] [mpm_winnt:notice] [pid 3800:tid 712] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 31 15:52:59.738206 2019] [core:notice] [pid 3800:tid 712] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 31 15:52:59.738206 2019] [mpm_winnt:notice] [pid 3800:tid 712] AH00418: Parent: Created child process 5176
+[Tue Dec 31 15:52:59.972598 2019] [mpm_winnt:notice] [pid 5176:tid 672] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 31 20:13:11.632472 2019] [mpm_winnt:notice] [pid 3800:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 31 20:13:13.664280 2019] [mpm_winnt:notice] [pid 5176:tid 672] AH00364: Child: All worker threads have exited.
+[Tue Dec 31 20:13:13.695162 2019] [mpm_winnt:notice] [pid 3800:tid 712] AH00430: Parent: Child process 5176 exited successfully.
+[Tue Dec 31 20:13:50.597715 2019] [mpm_winnt:notice] [pid 3496:tid 600] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Tue Dec 31 20:13:50.597715 2019] [mpm_winnt:notice] [pid 3496:tid 600] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Dec 31 20:13:50.597715 2019] [core:notice] [pid 3496:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 31 20:13:50.597715 2019] [mpm_winnt:notice] [pid 3496:tid 600] AH00418: Parent: Created child process 4936
+[Tue Dec 31 20:13:50.832108 2019] [mpm_winnt:notice] [pid 4936:tid 644] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 01 09:45:34.515626 2020] [core:warn] [pid 3544:tid 648] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 01 09:45:34.609382 2020] [mpm_winnt:notice] [pid 3544:tid 648] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Wed Jan 01 09:45:34.609382 2020] [mpm_winnt:notice] [pid 3544:tid 648] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Jan 01 09:45:34.609382 2020] [core:notice] [pid 3544:tid 648] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Jan 01 09:45:34.625009 2020] [mpm_winnt:notice] [pid 3544:tid 648] AH00418: Parent: Created child process 5100
+[Wed Jan 01 09:45:34.921905 2020] [mpm_winnt:notice] [pid 5100:tid 640] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 01 10:46:47.765402 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50591] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:47:36.099834 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50606] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:48:01.838272 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50612] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:48:30.295599 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50616] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:48:32.529628 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50616] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:14.253224 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50622] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:16.311093 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50622] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:28.238404 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50627] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:28.960059 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50627] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:29.159242 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50627] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:49:29.350413 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50627] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 10:51:50.092917 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50635] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 10:59:30.583657 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50710] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+[Wed Jan 01 11:00:41.744290 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50735] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts/create
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 11:01:02.611256 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50740] AH00127: Cannot map GET /http://mood-ify.net/contacts/create HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+[Wed Jan 01 11:01:05.290186 2020] [core:error] [pid 5100:tid 1132] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:50740] AH00127: Cannot map GET /http://mood-ify.net/contacts/edit/1 HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 13:55:56.526882 2020] [core:error] [pid 5100:tid 1148] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:51157] AH00127: Cannot map GET /'www'%20+http://mood-ify.net/ HTTP/1.1 to file, referer: http://www.mood-ify.net/contacts
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 14:18:36.438989 2020] [mpm_winnt:notice] [pid 3544:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 01 14:18:38.440790 2020] [mpm_winnt:notice] [pid 5100:tid 640] AH00364: Child: All worker threads have exited.
+[Wed Jan 01 14:18:41.136227 2020] [mpm_winnt:notice] [pid 3544:tid 648] AH00430: Parent: Child process 5100 exited successfully.
+[Wed Jan 01 14:18:51.489105 2020] [mpm_winnt:notice] [pid 520:tid 764] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Wed Jan 01 14:18:51.489105 2020] [mpm_winnt:notice] [pid 520:tid 764] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Jan 01 14:18:51.489105 2020] [core:notice] [pid 520:tid 764] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Jan 01 14:18:51.493109 2020] [mpm_winnt:notice] [pid 520:tid 764] AH00418: Parent: Created child process 5132
+[Wed Jan 01 14:18:51.716312 2020] [mpm_winnt:notice] [pid 5132:tid 652] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 14:35:17.719194 2020] [mpm_winnt:notice] [pid 520:tid 764] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 01 14:35:19.734971 2020] [mpm_winnt:notice] [pid 5132:tid 652] AH00364: Child: All worker threads have exited.
+[Wed Jan 01 14:35:19.906858 2020] [mpm_winnt:notice] [pid 520:tid 764] AH00430: Parent: Child process 5132 exited successfully.
+[Wed Jan 01 14:35:56.783502 2020] [mpm_winnt:notice] [pid 3804:tid 744] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Wed Jan 01 14:35:56.783502 2020] [mpm_winnt:notice] [pid 3804:tid 744] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Jan 01 14:35:56.783502 2020] [core:notice] [pid 3804:tid 744] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Jan 01 14:35:56.783502 2020] [mpm_winnt:notice] [pid 3804:tid 744] AH00418: Parent: Created child process 5220
+[Wed Jan 01 14:35:57.127279 2020] [mpm_winnt:notice] [pid 5220:tid 172] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 01 14:40:42.146654 2020] [mpm_winnt:notice] [pid 3804:tid 744] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 01 14:40:44.249566 2020] [mpm_winnt:notice] [pid 5220:tid 172] AH00364: Child: All worker threads have exited.
+[Wed Jan 01 14:40:45.853024 2020] [mpm_winnt:notice] [pid 3804:tid 744] AH00430: Parent: Child process 5220 exited successfully.
+[Wed Jan 01 14:40:54.748717 2020] [mpm_winnt:notice] [pid 8876:tid 832] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Wed Jan 01 14:40:54.748717 2020] [mpm_winnt:notice] [pid 8876:tid 832] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Jan 01 14:40:54.748717 2020] [core:notice] [pid 8876:tid 832] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Jan 01 14:40:54.752721 2020] [mpm_winnt:notice] [pid 8876:tid 832] AH00418: Parent: Created child process 12304
+[Wed Jan 01 14:40:55.071515 2020] [mpm_winnt:notice] [pid 12304:tid 632] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Wed Jan 01 16:15:54.960441 2020] [mpm_winnt:notice] [pid 8876:tid 832] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 01 16:15:56.962283 2020] [mpm_winnt:notice] [pid 12304:tid 632] AH00364: Child: All worker threads have exited.
+[Wed Jan 01 16:15:58.471442 2020] [mpm_winnt:notice] [pid 8876:tid 832] AH00430: Parent: Child process 12304 exited successfully.
+[Wed Jan 01 16:16:07.257025 2020] [mpm_winnt:notice] [pid 3212:tid 756] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Wed Jan 01 16:16:07.257025 2020] [mpm_winnt:notice] [pid 3212:tid 756] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Jan 01 16:16:07.257025 2020] [core:notice] [pid 3212:tid 756] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Wed Jan 01 16:16:07.259027 2020] [mpm_winnt:notice] [pid 3212:tid 756] AH00418: Parent: Created child process 2160
+[Wed Jan 01 16:16:07.478226 2020] [mpm_winnt:notice] [pid 2160:tid 584] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 02 08:10:35.321630 2020] [core:warn] [pid 3472:tid 656] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 02 08:10:35.431005 2020] [mpm_winnt:notice] [pid 3472:tid 656] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Thu Jan 02 08:10:35.431005 2020] [mpm_winnt:notice] [pid 3472:tid 656] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Thu Jan 02 08:10:35.431005 2020] [core:notice] [pid 3472:tid 656] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Jan 02 08:10:35.431005 2020] [mpm_winnt:notice] [pid 3472:tid 656] AH00418: Parent: Created child process 3344
+[Thu Jan 02 08:10:35.790377 2020] [mpm_winnt:notice] [pid 3344:tid 640] AH00354: Child: Starting 64 worker threads.
+[Thu Jan 02 13:57:21.756701 2020] [core:warn] [pid 3792:tid 644] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 02 13:57:21.866085 2020] [mpm_winnt:notice] [pid 3792:tid 644] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Thu Jan 02 13:57:21.866085 2020] [mpm_winnt:notice] [pid 3792:tid 644] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Thu Jan 02 13:57:21.866085 2020] [core:notice] [pid 3792:tid 644] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Thu Jan 02 13:57:21.866085 2020] [mpm_winnt:notice] [pid 3792:tid 644] AH00418: Parent: Created child process 1456
+[Thu Jan 02 13:57:22.147356 2020] [mpm_winnt:notice] [pid 1456:tid 624] AH00354: Child: Starting 64 worker threads.
