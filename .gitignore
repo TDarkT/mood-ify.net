@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 */config/development
 */logs/log-*.php
 !*/logs/index.html
@@ -15,3 +16,6 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+=======
+conf/httpd.conf
+>>>>>>> add gitignore
