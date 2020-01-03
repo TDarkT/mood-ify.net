@@ -54,3 +54,4 @@
 [Fri Jan 03 20:26:15.583925 2020] [mpm_winnt:notice] [pid 11788:tid 660] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
 [Fri Jan 03 20:26:15.583925 2020] [core:notice] [pid 11788:tid 660] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
 [Fri Jan 03 20:26:15.585927 2020] [mpm_winnt:notice] [pid 11788:tid 660] AH00418: Parent: Created child process 5352
+[Fri Jan 03 20:26:15.905218 2020] [mpm_winnt:notice] [pid 5352:tid 632] AH00354: Child: Starting 64 worker threads.
