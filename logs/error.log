@@ -5,3 +5,52 @@
 [Thu Jan 02 20:24:32.890742 2020] [core:notice] [pid 12452:tid 636] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
 [Thu Jan 02 20:24:32.892744 2020] [mpm_winnt:notice] [pid 12452:tid 636] AH00418: Parent: Created child process 5284
 [Thu Jan 02 20:24:33.106939 2020] [mpm_winnt:notice] [pid 5284:tid 532] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Fri Jan 03 19:47:23.668213 2020] [mpm_winnt:notice] [pid 12452:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 03 19:47:25.671025 2020] [mpm_winnt:notice] [pid 5284:tid 532] AH00364: Child: All worker threads have exited.
+[Fri Jan 03 19:47:25.685037 2020] [mpm_winnt:notice] [pid 12452:tid 636] AH00430: Parent: Child process 5284 exited successfully.
+[Fri Jan 03 19:47:30.979312 2020] [mpm_winnt:notice] [pid 2708:tid 672] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Fri Jan 03 19:47:30.979312 2020] [mpm_winnt:notice] [pid 2708:tid 672] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Jan 03 19:47:30.979312 2020] [core:notice] [pid 2708:tid 672] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Jan 03 19:47:30.981314 2020] [mpm_winnt:notice] [pid 2708:tid 672] AH00418: Parent: Created child process 13812
+[Fri Jan 03 19:47:31.295600 2020] [mpm_winnt:notice] [pid 13812:tid 548] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 03 19:58:44.712605 2020] [mpm_winnt:notice] [pid 2708:tid 672] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 03 19:58:46.714107 2020] [mpm_winnt:notice] [pid 13812:tid 548] AH00364: Child: All worker threads have exited.
+[Fri Jan 03 19:58:46.728056 2020] [mpm_winnt:notice] [pid 2708:tid 672] AH00430: Parent: Child process 13812 exited successfully.
+[Fri Jan 03 19:58:49.807840 2020] [mpm_winnt:notice] [pid 11852:tid 652] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Fri Jan 03 19:58:49.808815 2020] [mpm_winnt:notice] [pid 11852:tid 652] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Jan 03 19:58:49.808815 2020] [core:notice] [pid 11852:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Jan 03 19:58:49.810817 2020] [mpm_winnt:notice] [pid 11852:tid 652] AH00418: Parent: Created child process 4388
+[Fri Jan 03 19:58:50.024011 2020] [mpm_winnt:notice] [pid 4388:tid 592] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 03 19:59:42.374301 2020] [mpm_winnt:notice] [pid 11852:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 03 19:59:56.802015 2020] [mpm_winnt:notice] [pid 4388:tid 592] AH00364: Child: All worker threads have exited.
+[Fri Jan 03 19:59:56.816028 2020] [mpm_winnt:notice] [pid 11852:tid 652] AH00430: Parent: Child process 4388 exited successfully.
+[Fri Jan 03 20:00:12.902927 2020] [mpm_winnt:notice] [pid 13608:tid 620] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Fri Jan 03 20:00:12.903928 2020] [mpm_winnt:notice] [pid 13608:tid 620] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Jan 03 20:00:12.903928 2020] [core:notice] [pid 13608:tid 620] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Jan 03 20:00:12.906931 2020] [mpm_winnt:notice] [pid 13608:tid 620] AH00418: Parent: Created child process 7912
+[Fri Jan 03 20:00:13.119132 2020] [mpm_winnt:notice] [pid 7912:tid 560] AH00354: Child: Starting 64 worker threads.
+[Fri Jan 03 20:00:36.613441 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:37.445194 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:37.668397 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:37.900608 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:38.212893 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:38.429089 2020] [authz_core:error] [pid 7912:tid 1084] [client 127.0.0.1:62944] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:52.862633 2020] [authz_core:error] [pid 7912:tid 1076] [client 127.0.0.1:62946] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/
+[Fri Jan 03 20:00:56.172622 2020] [mpm_winnt:notice] [pid 13608:tid 620] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 03 20:01:26.172719 2020] [mpm_winnt:notice] [pid 13608:tid 620] AH00431: Parent: Forcing termination of child process 7912
+[Fri Jan 03 20:01:53.203214 2020] [mpm_winnt:notice] [pid 2704:tid 604] AH00455: Apache/2.4.41 (Win64) configured -- resuming normal operations
+[Fri Jan 03 20:01:53.204215 2020] [mpm_winnt:notice] [pid 2704:tid 604] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Jan 03 20:01:53.204215 2020] [core:notice] [pid 2704:tid 604] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Jan 03 20:01:53.206217 2020] [mpm_winnt:notice] [pid 2704:tid 604] AH00418: Parent: Created child process 8024
+[Fri Jan 03 20:01:53.422920 2020] [mpm_winnt:notice] [pid 8024:tid 576] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Fri Jan 03 20:25:49.438483 2020] [mpm_winnt:notice] [pid 2704:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 03 20:26:09.678821 2020] [mpm_winnt:notice] [pid 8024:tid 576] AH00364: Child: All worker threads have exited.
+[Fri Jan 03 20:26:09.692834 2020] [mpm_winnt:notice] [pid 2704:tid 604] AH00430: Parent: Child process 8024 exited successfully.
+[Fri Jan 03 20:26:15.583925 2020] [mpm_winnt:notice] [pid 11788:tid 660] AH00455: Apache/2.4.41 (Win64) PHP/7.4.1 configured -- resuming normal operations
+[Fri Jan 03 20:26:15.583925 2020] [mpm_winnt:notice] [pid 11788:tid 660] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Fri Jan 03 20:26:15.583925 2020] [core:notice] [pid 11788:tid 660] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Fri Jan 03 20:26:15.585927 2020] [mpm_winnt:notice] [pid 11788:tid 660] AH00418: Parent: Created child process 5352
